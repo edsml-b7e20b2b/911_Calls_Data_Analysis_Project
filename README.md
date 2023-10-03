@@ -1,5 +1,6 @@
 # 911_Calls_Data_Analysis_Project
 
+---
 ## Overview
 
 This capstone project delves into a dataset containing detailed information about emergency 911 calls. The dataset encompasses a variety of attributes including geographical coordinates, call description, timestamp, zip code, title, township, address, and a dummy variable 'e'. The primary objective of this analysis is to extract meaningful insights from this data, uncovering patterns, trends, and correlations.
